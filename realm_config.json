@@ -1,0 +1,7 @@
+{
+    "app_id": "test1-rvgupzp",
+    "config_version": 20210101,
+    "name": "test1",
+    "provider_region": "aws-ap-southeast-1",
+    "deployment_model": "LOCAL"
+}
